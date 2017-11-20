@@ -378,12 +378,12 @@ form.bad-email .fa, form.bad-email .message {
 /* ================================= */
 
 
-.title1 {
+h1 {
 	border: 0 none;
 	padding: 0;
 	vertical-align: baseline;
 	font-family: "Pinyon Script", cursive;
-	font-size: 61px;
+	font-size: 73px;
 	padding-bottom: 10px;
 	position: relative;
 	opacity: 1;
