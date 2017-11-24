@@ -212,6 +212,18 @@ h4 {
 	opacity: 1;
 }
 
+
+.title1 {
+	border: 0 none;
+	padding: 0;
+	vertical-align: baseline;
+	font-family: "Pinyon Script", cursive;
+	font-size: 61px;
+	padding-bottom: 10px;
+	position: relative;
+	opacity: 1;
+}
+
 }
 
 .dash {
